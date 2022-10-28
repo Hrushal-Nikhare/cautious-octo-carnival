@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
     <header className='navbar'>
-     <h2 className='heading'>Padlet Clone</h2>
+     <h2 className='heading'>Raman's Birtday</h2>
     </header>
     </>
   )

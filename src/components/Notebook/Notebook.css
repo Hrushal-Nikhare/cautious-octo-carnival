@@ -16,6 +16,7 @@
     justify-content: center;
     padding: 2rem;
     min-height: 1rem;
+		color:white;
     width: 20rem ! important;
     margin: 0rem auto;
 }
@@ -27,7 +28,7 @@
     font-family: "Poppins";
 }
 .notebook .notebookInfo .notebookInfo-title .remove {
-    color: #ff0000;
+    color: #201d1d;
     font-size: 24px;
     font-weight: 700;
 }

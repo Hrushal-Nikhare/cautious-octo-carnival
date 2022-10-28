@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     font-family: "poppins";
-    color: #8661d1;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 
@@ -59,11 +59,11 @@ button {
     text-align: center;
     cursor: pointer;
     outline: none;
-    color: #fff;
-    background-color: #8661d1;
+    color: #000000;
+    background-color: #ffe380;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 5px rgb(109, 57,129);
+    box-shadow: 0 5px rgb(253, 187, 73);
 }
 
 .noteadd .form-group {
@@ -79,11 +79,11 @@ button {
     align-items: center;
 }
 button:hover{
-    background-color: #906ed3;
+    background-color: #fff04d;
 }
 
 button:active{
-    background-color: #fd5252e5;
-    box-shadow: 0 5px rgb(212,93,93);
+    background-color: #fdbf53e5;
+    box-shadow: 0 5px rgb(253, 247, 63);
     transform: translateY(4px);
 }
